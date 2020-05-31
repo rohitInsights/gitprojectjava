@@ -1,0 +1,2 @@
+# gitprojectjava
+Ready to learn
